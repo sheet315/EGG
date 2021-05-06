@@ -1,4 +1,16 @@
 {
+  "item.quantum_recomplex.dark_armor_boots": "Dark Boots",
+  "item.quantum_recomplex.dark_axe": "Dark Axe",
+  "item.quantum_recomplex.dark_armor_chestplate": "Dark Chestplate",
+  "block.quantum_recomplex.dark_ore": "Dark Ore",
+  "item.quantum_recomplex.dark_shovel": "Dark Shovel",
+  "item.quantum_recomplex.dark_sword": "Dark Sword",
+  "block.quantum_recomplex.dark_block": "Block of Dark",
+  "item.quantum_recomplex.dark_ingot": "Dark",
+  "item.quantum_recomplex.dark_hoe": "Dark Hoe",
+  "item.quantum_recomplex.dark_armor_helmet": "Dark Helmet",
+  "item.quantum_recomplex.dark_armor_leggings": "Dark Leggings",
+  "item.quantum_recomplex.dark_pickaxe": "Dark Pickaxe",
   "enchantment.quantum_recomplex.darksharp": "Dark Ancient Lifesteal",
   "enchantment.quantum_recomplex.proppeling": "Proppeling"
 }

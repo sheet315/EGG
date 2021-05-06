@@ -1,0 +1,36 @@
+{
+  "group": "quantum_recomplex",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "1": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "2": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "3": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "5": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "6": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "8": {
+      "item": "quantum_recomplex:dark_ingot"
+    }
+  },
+  "result": {
+    "item": "quantum_recomplex:dark_armor_leggings",
+    "count": 1
+  }
+}

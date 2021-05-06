@@ -1,0 +1,39 @@
+{
+  "group": "quantum_recomplex",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "2": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "3": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "4": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "5": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "6": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "7": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "8": {
+      "item": "quantum_recomplex:dark_ingot"
+    }
+  },
+  "result": {
+    "item": "quantum_recomplex:dark_armor_chestplate",
+    "count": 1
+  }
+}

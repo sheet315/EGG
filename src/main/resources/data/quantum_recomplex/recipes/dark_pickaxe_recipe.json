@@ -1,0 +1,30 @@
+{
+  "group": "quantum_recomplex",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "1": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "2": {
+      "item": "quantum_recomplex:dark_ingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "quantum_recomplex:dark_pickaxe",
+    "count": 1
+  }
+}

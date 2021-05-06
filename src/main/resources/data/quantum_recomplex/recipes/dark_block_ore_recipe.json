@@ -1,0 +1,13 @@
+{
+  "group": "quantum_recomplex",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "quantum_recomplex:dark_block"
+    }
+  ],
+  "result": {
+    "item": "quantum_recomplex:dark_ingot",
+    "count": 9
+  }
+}

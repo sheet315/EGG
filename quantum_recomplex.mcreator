@@ -69,12 +69,219 @@
           }
         ]
       }
+    },
+    {
+      "name": "DarkIngot",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_ingot"
+    },
+    {
+      "name": "DarkOre",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_ore"
+    },
+    {
+      "name": "DarkBlock",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_block"
+    },
+    {
+      "name": "DarkOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_ore_block_recipe"
+    },
+    {
+      "name": "DarkBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_block_ore_recipe"
+    },
+    {
+      "name": "DarkOreSmelting",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_ore_smelting"
+    },
+    {
+      "name": "DarkPickaxe",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_pickaxe"
+    },
+    {
+      "name": "DarkAxe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_axe"
+    },
+    {
+      "name": "DarkSword",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_sword"
+    },
+    {
+      "name": "DarkShovel",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_shovel"
+    },
+    {
+      "name": "DarkHoe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_hoe"
+    },
+    {
+      "name": "DarkPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_pickaxe_recipe"
+    },
+    {
+      "name": "DarkAxeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_axe_recipe"
+    },
+    {
+      "name": "DarkSwordRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_sword_recipe"
+    },
+    {
+      "name": "DarkShovelRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_shovel_recipe"
+    },
+    {
+      "name": "DarkHoeRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_hoe_recipe"
+    },
+    {
+      "name": "DarkArmor",
+      "type": "armor",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DarkArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_armor_helmet_recipe"
+    },
+    {
+      "name": "DarkArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_armor_body_recipe"
+    },
+    {
+      "name": "DarkArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_armor_leggings_recipe"
+    },
+    {
+      "name": "DarkArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.quantum_recomplex.dark_armor_boots": "Dark Boots",
+      "item.quantum_recomplex.dark_axe": "Dark Axe",
+      "item.quantum_recomplex.dark_armor_chestplate": "Dark Chestplate",
+      "block.quantum_recomplex.dark_ore": "Dark Ore",
+      "item.quantum_recomplex.dark_shovel": "Dark Shovel",
+      "item.quantum_recomplex.dark_sword": "Dark Sword",
+      "block.quantum_recomplex.dark_block": "Block of Dark",
+      "item.quantum_recomplex.dark_ingot": "Dark",
+      "item.quantum_recomplex.dark_hoe": "Dark Hoe",
+      "item.quantum_recomplex.dark_armor_helmet": "Dark Helmet",
+      "item.quantum_recomplex.dark_armor_leggings": "Dark Leggings",
+      "item.quantum_recomplex.dark_pickaxe": "Dark Pickaxe",
       "enchantment.quantum_recomplex.darksharp": "Dark Ancient Lifesteal",
       "enchantment.quantum_recomplex.proppeling": "Proppeling"
     }

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "quantum_recomplex:blocks/dark_ore_block",
+    "particle": "quantum_recomplex:blocks/dark_ore_block"
+  }
+}
