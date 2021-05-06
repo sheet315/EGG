@@ -32,7 +32,7 @@ public class DarkSwordItem extends QuantumRecomplexModElements.ModElement {
 			}
 
 			public float getAttackDamage() {
-				return 0f;
+				return 4f;
 			}
 
 			public int getHarvestLevel() {
